@@ -266,3 +266,4 @@ while ($true) {
     catch { Write-Log "Loop Error: $_" -Level Error }
     Start-Sleep 20
 }
+
